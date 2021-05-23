@@ -1,4 +1,5 @@
-# EXERCISE 8
+# EXERCISE 8 & 9
 ## Laravel Exercise 8 CRUD
+## Laravel Exercise 9 Authentication
 
-An exercise. Good day.
+Two exercise. Good day.
